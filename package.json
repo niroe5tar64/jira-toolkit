@@ -11,6 +11,8 @@
     "typecheck": "tsc"
   },
   "dependencies": {
+    "@react-aria/button": "^3.13.0",
+    "@react-types/button": "^3.12.0",
     "@remix-run/node": "^2.16.5",
     "@remix-run/react": "^2.16.5",
     "@remix-run/serve": "^2.16.5",
